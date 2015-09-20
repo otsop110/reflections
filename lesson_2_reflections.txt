@@ -1,0 +1,4 @@
+8. Q: What happens when you initialize a repository? Why do you need to do it?
+A: .git file is created when I initialize a repository. I need to do it to prepare for the commits to GitHub.
+9. Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Staging area is like a storage, between the wd and repository. I think it offers a way to sparate the files we want to push to the repository from the files we just want to stay in the wd.
